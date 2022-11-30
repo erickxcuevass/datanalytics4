@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-from dash import Dash, dcc, html, Input, Output
-from dash.dependencies import Input, Output
-from sklearn.model_selection import train_test_split
-from sklearn import linear_model, tree, neighbors, ensemble
-import dash_bootstrap_components as dbc
-import plotly.graph_objects as go
-import numpy as np
-import pandas as pd
-import plotly
-
 from dash import Dash, dcc, html, Input, Output
 from dash.dependencies import Input, Output
 from sklearn.model_selection import train_test_split
