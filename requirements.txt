@@ -1,0 +1,9 @@
+dash==2.6.0
+pandas
+dash_bootstrap_components
+plotly
+numpy
+scikit-learn
+gunicorn
+
+
